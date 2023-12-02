@@ -48,11 +48,10 @@ body a {
 }
 
 .header-adress-list-link {
+  font-style: normal;
   color: #434455;
 }
-.adress-list-link {
-  font-style: normal;
-}
+
 .adress-list-link :hover {
   color: #404bbf;
 }
