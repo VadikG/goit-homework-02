@@ -48,8 +48,10 @@ body a {
 }
 
 .header-adress-list-link {
-  font-style: normal;
   color: #434455;
+}
+.adress-list-link {
+  font-style: normal;
 }
 .adress-list-link :hover {
   color: #404bbf;
@@ -70,7 +72,7 @@ body a {
   line-height: 1.07;
   letter-spacing: 1.12px;
 }
-.button-hero {
+.button {
   background: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
@@ -80,10 +82,11 @@ body a {
   font-size: 16px;
   line-height: 1.5;
 }
-.button-hero :hover {
+
+.button:hover {
   background-color: #404bbf;
 }
-.button-hero :focus {
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -92,6 +95,7 @@ body a {
 .sub-title-one-list {
   font-size: 20px;
   font-weight: 500;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -112,16 +116,19 @@ body a {
 .section-two-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .section-two-sub-title {
   font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.4px;
+  color: #2e2f42;
+  line-height: 1.2;
 }
 .text-section-two {
   color: #434455;
@@ -132,15 +139,18 @@ body a {
 .section-three-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .sub-title-section-three {
   font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.4px;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 .text-section-three {
   color: #434455;
