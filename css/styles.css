@@ -1,0 +1,146 @@
+/*BODY*/
+body {
+  width: 1440px;
+  height: 3300px;
+  background-color: #fff;
+  font-family: Roboto, sans-serif;
+  font-style: normal;
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+body li {
+  list-style-type: none;
+}
+body a {
+  text-decoration: none;
+}
+/*HEADER*/
+
+.link-logo {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.75;
+  letter-spacing: 0.54px;
+}
+
+.header-logo-span {
+  color: #2e2f42;
+}
+
+.header-nav-list-link {
+  font-weight: 500;
+}
+.header-nav-list-link:hover {
+  color: #404bbf;
+}
+.header-nav-list-link :active {
+  color: #404bbf;
+}
+
+.header-adress-list-link {
+  color: #434455;
+}
+.adress-list-link :hover {
+  color: #404bbf;
+}
+
+/*HERO*/
+.hero {
+  width: 1440px;
+  height: 600px;
+  background-color: #2e2f42;
+}
+.title-hero {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+}
+.button-hero {
+  background: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  letter-spacing: 0.64px;
+  cursor: pointer;
+}
+.button-hero :hover {
+  color: #404bbf;
+}
+
+/*SECTION-ONE*/
+
+.sub-title-one-list {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+  color: #2e2f42;
+}
+.text-one-list {
+  color: #434455;
+}
+
+/*SECTION-TWO*/
+.section-two {
+  background-color: #f4f4fd;
+}
+.section-two-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+}
+
+.section-two-sub-title {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+}
+.text-section-two {
+  color: #434455;
+}
+
+/*SECTION-THRE*/
+
+.section-three-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+}
+.sub-title-section-three {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+}
+.text-section-three {
+  color: #434455;
+}
+
+/*FOOTER*/
+
+.footer {
+  background-color: #2e2f42;
+}
+.link-logo-footer {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.54px;
+}
+
+.logo-footer-span {
+  color: #f4f4fd;
+}
+.text-footer {
+  color: #f4f4fd;
+}
